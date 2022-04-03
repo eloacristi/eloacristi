@@ -4,7 +4,7 @@
 
 ✌🏽 pronomes: Ela/Dela. <br>
 :octocat: Graduanda em Ciências Biológicas se aventurando no mundo da programação. <br>
-👩🏽‍💻 Cursando o curso online Eu Progr{amo} e cursando a Escola de Jovens Programadores em Java. <br>
+👩🏽‍💻 Eu Progr{amo} e Escola de Jovens Programadores em Java. <br>
 👩🏽‍🏫 Envolvida em causas sociais e ambientais. <br>
 💜 Em constante aprendizado! <br>
 </p>
